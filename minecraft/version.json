@@ -1,0 +1,12 @@
+{
+  "forgeVersion": "1231",
+  "mcVersion": "1.7.10",
+  "buildNumber": 1,
+  "packVersion": "1.0.0",
+  "packID": "test_pack",
+  "generateServer": true,
+  "minRamDefaultServer": "2048m",
+  "maxRamDefaultServer": "3072m",
+  "permgenDefaultServer": "256m",
+  "xml": "packtool_testpack"
+}
